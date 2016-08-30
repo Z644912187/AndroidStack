@@ -19,15 +19,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Main2Activity"
+            android:name=".Main1Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Main3Activity"
+            android:name=".Main2Activity"
             android:label="@string/title_activity_main3"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Main4Activity"
+            android:name=".Main3Activity"
             android:label="@string/title_activity_main4"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
